@@ -1,0 +1,64 @@
+body {
+    margin-left: 250px;
+    margin-right: 250px;
+    border: 1px dotted #E7C8DD;
+    background-color: #DEFFFC;
+}
+
+h1 {
+    color: #86626E;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+}
+
+.inline {
+    display: inline;
+}
+
+#right {
+    position: absolute;
+    right: 250px;
+}
+
+#left {
+    position: absolute;
+    left: 250px;
+}
+
+h2 {
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 2px;
+}
+
+.myclass {
+    color: grey;
+    text-align: center;
+}
+
+.list {
+    padding: 0px;
+    margin: 0px 0px 0px 20px;
+}
+
+#wantmargin {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer {
+    text-align: center;
+}
+
+#hline {
+    padding: 0px;
+    margin: 0px;
+}
